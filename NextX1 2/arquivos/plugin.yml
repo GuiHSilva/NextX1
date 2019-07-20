@@ -1,0 +1,9 @@
+name: NextX1
+main: me.nextx1.Main
+version: 1.0
+authors: [GuiHSilva, SkyVox_]
+
+
+commands:
+  x1:
+    aliases: [desafiar]
